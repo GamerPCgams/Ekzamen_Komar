@@ -1,0 +1,6 @@
+C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\PhotoPrintCalculator\bin\Debug\PhotoPrintCalculator.dll
+C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\PhotoPrintCalculator\bin\Debug\PhotoPrintCalculator.pdb
+C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\PhotoPrintCalculator\obj\Debug\PhotoPrintCalculator.csproj.AssemblyReference.cache
+C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\PhotoPrintCalculator\obj\Debug\PhotoPrintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\PhotoPrintCalculator\obj\Debug\PhotoPrintCalculator.dll
+C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\PhotoPrintCalculator\obj\Debug\PhotoPrintCalculator.pdb
