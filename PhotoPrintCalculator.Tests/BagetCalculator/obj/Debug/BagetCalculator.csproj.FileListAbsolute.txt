@@ -1,6 +1,0 @@
-C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\BagetCalculator\bin\Debug\BagetCalculator.dll
-C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\BagetCalculator\bin\Debug\BagetCalculator.pdb
-C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\BagetCalculator\obj\Debug\BagetCalculator.csproj.AssemblyReference.cache
-C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\BagetCalculator\obj\Debug\BagetCalculator.csproj.CoreCompileInputs.cache
-C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\BagetCalculator\obj\Debug\BagetCalculator.dll
-C:\Users\Sylim\OneDrive\Рабочий стол\Новая папка (2)\BagetCalculator\obj\Debug\BagetCalculator.pdb

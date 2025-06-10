@@ -1,6 +1,0 @@
-C:\Users\Sylim\OneDrive\Рабочий стол\Komar\Books\bin\Debug\Books.dll
-C:\Users\Sylim\OneDrive\Рабочий стол\Komar\Books\bin\Debug\Books.pdb
-C:\Users\Sylim\OneDrive\Рабочий стол\Komar\Books\obj\Debug\Books.csproj.AssemblyReference.cache
-C:\Users\Sylim\OneDrive\Рабочий стол\Komar\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
-C:\Users\Sylim\OneDrive\Рабочий стол\Komar\Books\obj\Debug\Books.dll
-C:\Users\Sylim\OneDrive\Рабочий стол\Komar\Books\obj\Debug\Books.pdb
